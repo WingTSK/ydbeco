@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "YGO-DB Eco Mode",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "非公式のECOモードで、遊戯王カードデータベースのCPUとGPU使用量を軽減。",
+    "description": "Description of the extension."
+  }
+}

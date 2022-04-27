@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "YGO-DB Eco Mode",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "This is an UNOFFICIAL extension for the Yu-Gi-Oh Card Database that stops background animations to reduce CPU and GPU usage.",
+    "description": "Description of the extension."
+  }
+}
