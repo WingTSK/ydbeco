@@ -1,15 +1,15 @@
 #bg {
   animation: none !important;
-  background-position-y: -15px !important;
+  background-position-y: 9px !important;
 }
 
 @media only screen and (max-width: 896px) {
   #bg {
-    background-position-y: 11px !important;
-  }  
+    background-position-y: 107px !important;
+  }
 }
 @media only screen and (max-width: 500px) {
   #bg {
-    background-position-y: 37px !important;
-  }  
+    background-position-y: 48px !important;
+  }
 }

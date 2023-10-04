@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "YGO-DB Eco Mode",
-  "version": "0.1.3.1",
+  "version": "0.1.4.0",
   "short_name": "YDBeco",
   "description": "__MSG_extensionDescription__",
   "default_locale": "en_US",
