@@ -1,6 +1,6 @@
 # YGO-DB Eco Mode
 
-## Discontinued Notice
+## Notice of Discontinued
 Due to the renewal of the "Yu-Gi-Oh! TCG Card Database" website, "YGO-DB Eco Mode" has been discontinued.
 
 I apologize for the inconvenience, but please uninstall this extension.
