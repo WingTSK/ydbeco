@@ -1,10 +1,13 @@
 # YGO-DB Eco Mode
 
-Added : 2025-04-14
+## Discontinued Notice
 Due to the renewal of the "Yu-Gi-Oh! TCG Card Database" website, "YGO-DB Eco Mode" has been discontinued.
+
 I apologize for the inconvenience, but please uninstall this extension.
+
 Thank you for the three years!
 
+(Added: 2025-04-14)
 ___
 
 This is an **UNOFFICIAL** extension for the [Yu-Gi-Oh! TCG Card Database](https://www.db.yugioh-card.com/yugiohdb/) that stops background animations and adds some style settings to reduce CPU and GPU usage.
